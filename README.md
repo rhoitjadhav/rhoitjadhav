@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hello there 👋
+</div>
+<div id="header" align="center">
+  <div id="header" align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=rhoitjadhav&style=flat-square&color=blue" alt=""/>
+  </div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/rhoitjadhav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/rhoitjadhav" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
+</div>
 
 <!--
 **rhoitjadhav/rhoitjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +33,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-🌱 I'm currently learning about system design and kubernetes
-💬 Ask me about Python and somewhat kubernetes
-👯 I’m looking to collaborate on Python related projects
-📫 You can contact me at `jadhavrohit497@gmail.com`
-😄 Join me for debate on NBA basketball. Favourite team GSW
+- 🌱 I'm currently learning about system design and kubernetes
+- 💬 Ask me about Python and somewhat kubernetes
+- 👯 I’m looking to collaborate on Python related projects
+- 📫 You can contact me at `jadhavrohit497@gmail.com`
+- 😄 Join me for debate on NBA basketball. Favourite team GSW
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhoitjadhav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhoitjadhav) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/rhoitjadhav) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rhoitjadhav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rhoitjadhav) 
