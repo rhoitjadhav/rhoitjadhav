@@ -20,7 +20,7 @@
 
 # 💫About Me :
 
-- 🌱 I'm currently learning System Design and getting my hands dirty on Kubernetes.
+- 🌱 I'm currently developing some projects on FastAPI and learning LLMs.
 - 💬 Ask me anything Python.
 - 👯 I’m looking to contribute on opensource projects.
 - 😄 Join me for debate on NBA basketball. Favourite team GSW
