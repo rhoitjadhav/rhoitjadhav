@@ -21,9 +21,8 @@
 # 💫About Me :
 
 - 🌱 I'm currently learning System Design and getting my hands dirty on Kubernetes.
-- 💬 Ask me about Python or Kubernetes.
+- 💬 Ask me anything Python.
 - 👯 I’m looking to contribute on opensource projects.
-- 📫 You can contact me at `jadhavrohit497@gmail.com`
 - 😄 Join me for debate on NBA basketball. Favourite team GSW
 
 ## 🌐Socials
@@ -65,10 +64,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-# Blogs
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/1" alt="Recent Article 0"> 
+# 📕 Blog Posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/0" alt="Recent Blog 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/1" alt="Recent Blog 1"> 
 
+  
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=rhoitjadhav&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -78,10 +78,6 @@
 ### ✍️Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rhoitjadhav&icon=0&color=0)](https://visitcount.itsvg.in)
