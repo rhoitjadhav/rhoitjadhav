@@ -65,6 +65,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+# Blogs
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rhoitjadhav/1" alt="Recent Article 0"> 
+
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=rhoitjadhav&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
